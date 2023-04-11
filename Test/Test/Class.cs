@@ -8,5 +8,9 @@ namespace Test
 {
     internal class Class
     {
+        public Class()
+        {
+
+        }
     }
 }
