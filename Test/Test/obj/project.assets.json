@@ -8,23 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ayham.almasri\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\IS.06\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Test\\Test\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\IS.06\\Source\\Repos\\Test\\Test\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "D:\\Test\\Test\\Test\\Test.csproj",
-      "packagesPath": "C:\\Users\\ayham.almasri\\.nuget\\packages\\",
-      "outputPath": "D:\\Test\\Test\\Test\\obj\\",
+      "projectPath": "C:\\Users\\IS.06\\Source\\Repos\\Test\\Test\\Test\\Test.csproj",
+      "packagesPath": "C:\\Users\\IS.06\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\IS.06\\Source\\Repos\\Test\\Test\\Test\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ayham.almasri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\IS.06\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
